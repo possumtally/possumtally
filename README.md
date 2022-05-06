@@ -1,4 +1,4 @@
-MOM GET OUT I'M WRITING CODE
+Don't worry, I have stuff to put here when I remember.
 
 <!---
 possumtally/possumtally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
